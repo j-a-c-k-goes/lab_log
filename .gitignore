@@ -1,3 +1,4 @@
 tests/
 .DS_Store
 src/__pycache__
+src/py/.user.json
