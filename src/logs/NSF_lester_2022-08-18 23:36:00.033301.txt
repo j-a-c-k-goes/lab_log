@@ -1,0 +1,7 @@
+date: 2022-08-18 23:36:00.033301
+key_topics: ['Worms']
+summary: 
+questions: ['how to defend against worms']
+complete: ['completed reading on worms']
+incomplete: ['did not finish chapter projects.']
+next_major_goal: observing a worm.
